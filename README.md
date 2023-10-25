@@ -15,4 +15,5 @@ https://user-images.githubusercontent.com/86397474/274192496-ab1e94e7-54aa-434e-
 The result of baseline
 ## Right video:
 The result of method 1+2+3
-https://user-images.githubusercontent.com/86397474/278082670-4d04c8f0-c9c5-44bf-9fba-051243667a6f.mp4
+
+https://user-images.githubusercontent.com/86397474/278083738-86597de1-c9d3-4ca8-a789-42e372f23f47.mp4
