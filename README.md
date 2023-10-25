@@ -1,9 +1,9 @@
-# DEMO camera path
+#DEMO camera path
 
-## Left video:
+##Left video:
 The green cude represents the movement of camera (=user), includeing rotation and straight movement.
 
-## Right video:
+##Right video:
 The sequence of camera view. each frame is evaluated using 2D image quality metrics.   
 Each frame corresponds to camera movement in left video. 
 
