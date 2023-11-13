@@ -12,12 +12,12 @@ https://user-images.githubusercontent.com/86397474/274192496-ab1e94e7-54aa-434e-
 
 # Result
 
-##Video 1:
+## Video 1:
 The result of baseline
 
 https://user-images.githubusercontent.com/86397474/282362287-df8c2e93-f8d1-47c8-bff4-cab01c241571.mp4
 
-##Video 2:
+## Video 2:
 The result of method 1+2+3  
 (Reducing the FPS to 10 for better visibility)
 
