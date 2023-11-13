@@ -14,8 +14,11 @@ https://user-images.githubusercontent.com/86397474/274192496-ab1e94e7-54aa-434e-
 
 ## Left video:
 The result of baseline
+https://user-images.githubusercontent.com/86397474/282362287-df8c2e93-f8d1-47c8-bff4-cab01c241571.mp4
+
 ## Right video:
 The result of method 1+2+3  
 (Reducing the FPS to 10 for better visibility)
+https://user-images.githubusercontent.com/86397474/282362329-a6077068-1eb3-4e29-ab95-ecf2514a6803.mp4
 
-https://user-images.githubusercontent.com/86397474/282360064-b071b888-1bde-4635-9dcd-2d9e045e158b.mp4
+
