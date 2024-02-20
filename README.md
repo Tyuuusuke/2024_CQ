@@ -1,25 +1,22 @@
-# DEMO camera path
+# カメラパスの視野再生動画
 
-## Left video:
-The green cude represents the movement of camera (=user), includeing rotation and straight movement.
+## 左側のビデオ:
+緑のキューブが、回転や直進などのユーザーの動きを表している
 
-## Right video:
-The sequence of camera view. each frame is evaluated using 2D image quality metrics.   
-Each frame corresponds to camera movement in left video. 
+## Right video:   
+左側がわのビデオと対応したユーザーの視野が再生されている 
+各フレームがLPIPSにより評価される
 
 https://user-images.githubusercontent.com/86397474/274192496-ab1e94e7-54aa-434e-887f-5aa6056ddb2b.mp4
 
 
-# Result
+# 評価結果
 
-## Video 1:
-The result of baseline
+## ベースライン手法の結果
 
 https://user-images.githubusercontent.com/86397474/282362287-df8c2e93-f8d1-47c8-bff4-cab01c241571.mp4
 
-## Video 2:
-The result of method 1+2+3  
-(Reducing the FPS to 10 for better visibility)
+## 3手法を組み合わせた場合の結果  
 
 https://user-images.githubusercontent.com/86397474/282362329-a6077068-1eb3-4e29-ab95-ecf2514a6803.mp4
 
